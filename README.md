@@ -1,4 +1,4 @@
-# 👔 CharmingCoder_Vol.1_HowToDress
+# 👔 CharmingCoderVol.1_HowToDress
 迷人程序员系列01：穿搭指南
 Dress like code：Minimal, Functional, Merge-Request Approved | 穿搭要像优秀的代码一样简洁优雅，值得被 Merge。
 
@@ -6,7 +6,23 @@ Dress like code：Minimal, Functional, Merge-Request Approved | 穿搭要像优�
 用开源协作的方式，为程序员提供**可复制、极简、高性价比、可以“无脑照抄”**的穿搭方案。  
 
 ## 快速开始
-- **基础规则**: [BASIC_RULES.md](./BASIC_RULES.md)  
+- **基础规则**:
+  
+### 1. 极简主义（KISS 原则）
+- **颜色**：黑 / 白 / 灰 + 一个主题色（RGB值保持舒适）
+- **图案**：优先无 logo
+  
+### 2. 功能优先（Function Over Form）
+- 穿得住、坐得久、不会皱  
+- 注重面料：纯棉 / 速干 / 抗皱材质优先  
+- 有口袋 = 有状态管理
+
+### 3. 可维护性（Low Maintenance）
+- 易于清洗、百搭互换，不需要太多 if-else 才能搭配  
+- 类似模块化设计：T恤 + 工装裤 + 帽衫，快速组合，随时上线
+
+
+
 - **品牌推荐**: [BRANDS/](./BRANDS/)  
 
 ## 如何贡献？
