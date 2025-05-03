@@ -1,10 +1,8 @@
-# 👔 CharmingCoderVol.1_HowToDress
+# 👔 HowToDress _CharmingCoderVol.1
 迷人程序员系列01：穿搭指南
 
 Dress like code：Minimal, Functional, Merge-Request Approved
 
-穿搭要像优秀的代码一样简洁优雅，值得被 Merge。
----
 最近有一个喜欢的女孩子，然后开始意识到自己之前都不太关注穿搭，可能大部分程序员虽然不太在意穿搭，但并不代表我们就不能穿得更利落有逻辑。偶尔想在网上找点穿搭建议，却发现大多数内容都很混乱。
 因为前阵子看到howtocook！
 
@@ -12,7 +10,9 @@ Dress like code：Minimal, Functional, Merge-Request Approved
 
 同时，我希望它能是一个由社区共同维护的开源项目，欢迎大家 PR 自己的风格模版、推荐单品、使用经验。让我们一起打造一个风格和代码一样优秀的衣橱。欢迎贡献！🌟
 
+
 ---
+
 
 ## 项目目标
 用开源协作的方式，为程序员提供**可复制、极简、高性价比、可以“无脑照抄”**的穿搭方案。  
